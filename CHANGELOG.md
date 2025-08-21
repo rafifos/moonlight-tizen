@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.8.1
+
+### Added
+- Enabled Game Mode, see: https://developer.samsung.com/smarttv/develop/guides/cloud_gaming/cg_implement_webapp.html
+
 ## v1.8.0
 
 ### Added
